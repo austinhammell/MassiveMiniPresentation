@@ -19,8 +19,7 @@ public class App {
         // MathOperations.ShowMathOperations();
 
         // System.out.println("Methods!");
-        // Methods methods = new Methods();
-        // methods.ShowMethods();
+        // Methods.ShowMethods();
 
         // System.out.println("Classes!");
         // Block diamond = new Block();
@@ -30,7 +29,7 @@ public class App {
         // Block iron = new Block("iron");
         // System.out.println(iron.getBlockType());
 
-        System.out.println("Exceptions!");
-        Exceptions.ShowExceptions();
+        // System.out.println("Exceptions!");
+        Exceptions.ShowExceptions(false);
     }
 }

@@ -1,5 +1,6 @@
 package app;
 
+
 public class MathOperations {
     public static void ShowMathOperations() {
         //Addition
@@ -10,6 +11,9 @@ public class MathOperations {
         System.out.println(10 * 10);
         //Division
         System.out.println(10 / 10);
+
+        // The Math utility helps with more advanced calculations:
+        System.out.println(Math.pow(2,8)); // 2^8
 
         // for (int i = 10; i >= 0; i--){
         //     System.out.println(10 / i);

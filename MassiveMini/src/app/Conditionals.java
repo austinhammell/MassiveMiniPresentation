@@ -9,7 +9,7 @@ public class Conditionals{
             if (animal == "Bear"){
                 System.out.println("A " + animal + " is very scary");
             } else {
-                System.out.println("A " + animal + " is not scary at all");
+                System.out.println("A " + animal + " is not scary at all (unless you're scared of "+animal+")");
             }
         }
 
