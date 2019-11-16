@@ -1,7 +1,7 @@
 package app;
 
 public class Methods {
-    public void ShowMethods(){
+    public static void ShowMethods(){
         //Custom Methods are a way of defining a block of code that will only run when called upon.
 
         //Method declaration
@@ -14,7 +14,7 @@ public class Methods {
         //      void means nothing will be returned from the method.
         // Method Name
         //      This can be anything.
-        // Parameter list 
+        // Parameter list
         //      A list of variables to be passed into your method. (Comma delimited)
         // Exception list
         //      We will talk about this part later.
@@ -23,16 +23,16 @@ public class Methods {
 
         int AddedNumbers = Add(1, 2);
         System.out.println(AddedNumbers);
-        
+
         //AddVoid(1, 2);
 
     }
 
-    public int Add(int x, int y){
+    public static int Add(int x, int y){
         return x + y;
     }
 
-    public void AddVoid(int x, int y){
+    public static void AddVoid(int x, int y){
         System.out.println(x + y);
     }
 }
