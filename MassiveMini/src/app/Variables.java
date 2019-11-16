@@ -5,7 +5,8 @@ public class Variables {
     //Custom Method, will talk more about this later
     public static void ShowVariables(){
         //Primitive Data Types:
-        // A Primitive Data Type can be directly translated to binary (0s and 1s), and do not require the "new" keyword (we will cover this later)
+        // A Primitive Data Type can be directly translated to binary (0s and 1s), 
+        // and do not require the "new" keyword (we will cover this later)
         // These are often the same from language to language.
 
         // boolean is used for true/false
@@ -52,7 +53,8 @@ public class Variables {
         // char Char = 'f';
         // System.out.println(Char);
 
-        // Although a string is used very often in Java, it is technically not a primitive type, although you can use them without the "new" keyword,
+        // Although a string is used very often in Java, it is technically not a primitive type, 
+        // although you can use them without the "new" keyword,
         // Meaning it is actually an object that has methods associated with it.
         // String greeting = "Hello World";
         // System.out.println(greeting);

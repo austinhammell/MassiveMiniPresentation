@@ -30,6 +30,6 @@ public class App {
         // System.out.println(iron.getBlockType());
 
         // System.out.println("Exceptions!");
-        Exceptions.ShowExceptions(false);
+        //Exceptions.ShowExceptions(false);
     }
 }
