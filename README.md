@@ -4,3 +4,4 @@ This repository was used in a presentation by [Austin Hammell](https://github.co
 It covers the basics of programming Java, with comments to guide any viewers through the code, if you have questions please feel free to open an issue!
 
 [Slideshow](https://docs.google.com/presentation/d/1JAwJB0JaClXmwh3xNkxRTiCuRCuQGHvoEWqbSJAgv-E/edit?usp=sharing)
+[Workshop signup](https://docs.google.com/forms/d/e/1FAIpQLSfwxBYE6cTBzBcqUhryJiDmRgB2dmGV8fcrZwAtvHpzZH_0xg/viewform?usp=sf_link)
