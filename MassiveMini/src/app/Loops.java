@@ -14,6 +14,7 @@ public class Loops{
           System.out.println("Please enter Hello! to continue:");
           user_input = input_getter.nextLine();
         }
+        input_getter.close();
 
 
         // For loops are used when you know, or can calculate easily, when you will stop the loop
